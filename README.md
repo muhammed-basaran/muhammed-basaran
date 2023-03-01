@@ -5,12 +5,16 @@
 
 
 
-I Actually started to learn coding. So I hope you will see some projects soon ✌
+I recently finished my study @neue fische Bootcamp. Now I am motivated to start with the new challenge as a WebDev. ✌
 
 
-I want to be an expert in : 
-- html
-- css
+My experience so far : 
+
+
+- HTML/CSS
 - JavaScript
+- React.js
+- Next.js
+- Node.js
 
 ![MacBook im Einsatz](./MacCode.jpeg)
